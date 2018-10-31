@@ -7,7 +7,7 @@ DataBase = (loadfile "redis.lua")()
 DataBase = DataBase.connect('127.0.0.1', 6379)
 channel_id = -1001388474114
 channel_user = "original_herorat"
-local BOT = Tabchi-ID
+local BOT = 463049537
 function dl_cb(arg, data)
 end
 	function get_admin ()
